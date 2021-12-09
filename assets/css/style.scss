@@ -1,28 +1,7 @@
 ---
 ---
+img {
+  border-radius: 5%;
+}
 
 @import "{{ site.theme }}";
-
-.author__avatar {
-  display:table-cell;
-  vertical-align:top;
-  width:36px;
-  height:36px
-}
-@media (min-width: 64em) {
-  .author__avatar {
-  display:block;
-  width:auto;
-  height:auto
-  }
-}
-.author__avatar img {
-  max-width:160px;
-  border-radius:5%
-}
-@media (min-width: 64em) {
-  .author__avatar img {
-  padding:0px;
-  border:0px solid #bfbfbf
-  }
-}
