@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Sullivan"
-  avatar           : "profile.jpeg"
+  avatar           : "profile_square.jpeg"
   bio              : "Masters Student at Harvard University, studying Software Engineering. \nInterested in Self-Adaptive Systems, Machine Behavior, and Evolutionary Programming"
   location         : "Boston. MA"
   employer         :
