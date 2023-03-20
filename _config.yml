@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zachary Sullivan"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Zachary Sullivan"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zachary Sullivan"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineering Masters degree candidate at Harvard University. Interested in Self-Adaptive Systems, Machine Behavior, and Evolutionary Programming"
   location         : "Boston. MA"
   employer         :
   pubmed           : 
