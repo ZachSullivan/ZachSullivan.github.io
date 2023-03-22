@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Zachary Sullivan"
 title_separator          : "-"
 name                     : &name "Zachary Sullivan"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zachary Sullivan"
+  name             : "<u>Zachary Sullivan</u>"
   avatar           : "profile_square.jpeg"
-  bio              : "Masters Student at Harvard University. Interested in Self-Adaptive Systems, Machine Behavior, and Evolutionary Programming"
+  bio              : "Masters Student @ Harvard University | Interested in Self-Adaptive Systems, Machine Behavior, and Evolutionary Programming | Mentor | PC Gaming Enthusiast"
   location         : "Boston. MA"
   employer         :
   pubmed           : 
