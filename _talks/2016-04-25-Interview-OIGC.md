@@ -8,7 +8,7 @@ date: 2016-04-25
 location: "Ottawa, Ontario"
 ---
 
-https://www.cbc.ca/news/canada/ottawa/sexism-video-games-ottawa-conference-1.3552244
+"With video game designers and developers from around the world in Ottawa this week for a conference, one critic and analyst wants them to take a deeper look at sexism in video games to make them more inclusive." - CBC News
 
+[CBC News Interview](https://www.cbc.ca/news/canada/ottawa/sexism-video-games-ottawa-conference-1.3552244)
 
-"With video game designers and developers from around the world in Ottawa this week for a conference, one critic and analyst wants them to take a deeper look at sexism in video games to make them more inclusive."
