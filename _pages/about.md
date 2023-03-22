@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'm Zachary"
+title: "I'm Zach"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
