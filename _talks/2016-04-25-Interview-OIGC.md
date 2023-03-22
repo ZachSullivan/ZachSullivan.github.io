@@ -1,7 +1,7 @@
 ---
 title: "Developers and critics confront sexism in video games at Ottawa conference"
 collection: talks
-type: "Interview"
+type: "Talk"
 permalink: /talks/2016-04-25-Interview-OIGC
 venue: "Ottawa, 2016 International Games Conference"
 date: 2016-04-25
