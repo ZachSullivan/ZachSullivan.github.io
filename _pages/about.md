@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Software Engineering Masters's degree candidate at Harvard University's Extension School.
+I have recently concluded my Master's thesis in Software Engineering and will be graduating in May.
 
-I am advised by Dr. Stratos Idreos, and am currently operating as a contributor in Harvard SEAS' [DASLab](http://daslab.seas.harvard.edu/). Presently, I am architecting novel use cases for self-adaptive systems, with particular interest in the application of Evolutionary Programming in robotic contexts to reduce search space complexity and optimize power efficiency. I am exploring topics in Design Morphology, Genetic Algorithms, and Control System Theory. 
+While at Harvard, I have been advised by Dr. Stratos Idreos who runs the Data Systems Labratory [DASLab](http://daslab.seas.harvard.edu/) at Harvard's School of Engineering and Applied Science [(SEAS)](https://seas.harvard.edu/).
+There I am working on architecting a novel self-adaptive control system for Autonomous Air Vehicles that automatically tunes the drone for best operational energy use.
 
-Previously I had the wonderful oportunity to work as a Software Support Specialist at [Thomson Reuters](https://www.thomsonreuters.com/en.html), a Logistics Fulfillment Team Member with [Target Corporation](https://corporate.target.com/), and held Research Assistant positions at [Carleton Univerity](https://carleton.ca/) and [Statistics  Canada](https://www.statcan.gc.ca/en/start). In my free time I run tutoring services for novice software developers, and previously volunteered with Community Action Coalition for South Central Wisconsin, ensuring community members have access to warm seasonal clothing.
+I am particularly interested in the application of Evolutionary Computation in the optimization of robotic behavior to reduce solution space complexity and optimize power efficiency. From this, I am continuing to explore topics in Design Morphology, Genetic Algorithms, and Control System Theory. 
+
+Previously I had the wonderful oportunity to work in Software Support at [Thomson Reuters](https://www.thomsonreuters.com/en.html), and on the Logistics Fulfillment Team within [Target Corporation](https://corporate.target.com/), as well as holding Research Assistant positions while I was an undergraduate student at [Carleton Univerity](https://carleton.ca/) and at [Statistics Canada](https://www.statcan.gc.ca/en/start). 
+
+In my free time I run tutoring services to help emerging software developers, in addition to volunteering seasonally with the Community Action Coalition of South Central Wisconsin.
