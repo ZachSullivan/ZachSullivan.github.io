@@ -11,30 +11,53 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master of Liberal Arts, Extension Studies, Software Engineering, Harvard University, 2023 (expected)
+* Bachelor of Information Technology, Carleton University, 2016
+* Advanced IT Diplom, Algonquin College, 2016
+
+Skills
+======
+* Imparative and Object-Oriented Languages
+  * Thorough understanding of several imperative and object-oriented languages including C, C#, C++, Java and Python.
+  * Comprehensive diagnosis, prognosis and debugging of software programs within tight timeframes, ensuring project completion on a timely basis
+* AI/Machine Learning (ML)
+  * Knowledge of Python to effectively used to further augment work in Data Science and computational statistical analysis/visualization.
+  * Experience with Python packages including NumPy, pandas, seaborn, statsmodels, and matplotlib. Applying Bayesian
+inference models to real-world problems.
+  * Experience with AWS ‘Rekognition’, leveraging high-efficiency and scalable cloud services to build machine learning
+solutions with ease.
+
+Research Experience
+======
+
+* 2022 – Present: Data Systems Laboratory (DASLab) SEAS - Harvard 
+  * Master’s Thesis: AERO - A Darwinian Approach to Time/Energy-optimal Behavioral Robotics 
+    * Conducted research examining self-adaptive energy profiling to diagnose and reconcile inefficient robotic behaviors and postures
+    * Consulted in weekly laboratory meetings providing feedback and accelerating research work
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 – 2019: Target Coporation
+  * Logistics – Flexible Fulfillment 
+    * Identified workflow optimization strategies and implementation, streamlining of the fulfillment process, optimized shipping flow, and improved overall customer satisfaction. Contributed to increasing total sales growth from 7.1% to 17.9%.
+    * Trained and mentored team members on best practices for fulfillment and customer service, resulting in improved client satisfaction.
+    * Worked closely with cross-functional teams to ensure logistic integration. Including inventory levels, shipping processes, and overseeing logistic audits.
+    * Ongoing development of data analytics to identify customer behavior and preferences, facilitating product placement, inter-team coordination, and logistics management decisions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2016 – 2017: Thomson Reuters
+  * Software Support 
+    * Provided technical support to clients, ongoing debugging, researching, testing, and collaborating with fellow departments to identify and implement time sensitive solutions.
+    * Documented and maintained accurate records of issues and resolutions. Managing client expectations by providing realistic timelines for issue resolution and follow-up communication
+
+* 2015: University of Ottawa & Statistics Canada
+  * Software Developer
+    * Contributed to the Theoretical Health Inequality Model (THIM) project, which involved population and demography modelling using Statistics Canada’s microsimulation tool, Modgen
+
+* 2013 – 2015: Carleton University
+  * Software Developer - Robotics Engineering & Psychology Department 
+    * Collaborated on diverse projects within the Human Computer Interaction Lab, including the development of an InMoov 3D printed robotic arm showcased in Make Magazine, and an interactive simulation model to identify potential PTSD patients at risk.
+    * Contributed to the development and implementation of work plans, identifying and resolving design issues, and ensuring timely delivery of projects.
+    * Organized and participated in development status meetings, providing technical guidance and advice to clients on project issues and progress, fostering strong client-developer relationships
 
 Publications
 ======
@@ -48,12 +71,15 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Harvard Extension School Grant: 
+  * Awarded to students who have demonstrated strong academic achievement and potential in their studies.
+
+Volunteering
 ======
-* Currently signed in to 43 different slack teams
+* Software Tutoring: 
+  * Providing personalized guidance and mentorship to emerging software developers seeking to improve their programming skills.
+* Community Action Coalition For South Central WI: 
+  * Assisting in annual Coats for Kids drive.
+
