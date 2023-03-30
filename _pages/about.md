@@ -14,6 +14,6 @@ While at Harvard, I have been advised by Dr. Stratos Idreos who runs the Data Sy
 
 I am particularly interested in the application of Evolutionary Computation in the optimization of robotic behavior to reduce solution space complexity and optimize power efficiency. From this, I am continuing to explore topics in Design Morphology, Genetic Algorithms, and Control System Theory.
 
-Previously I had the wonderful opportunity to work in Software Support at [Thomson Reuters](https://www.thomsonreuters.com/en.html), and on the Logistics Fulfillment Team within Target Corporation](https://corporate.target.com/), as well as holding Research Assistant positions while I was an undergraduate student at [Carleton University](https://carleton.ca/)  and at [Statistics Canada](https://www.statcan.gc.ca/en/start).
+Previously I had the wonderful opportunity to work in Software Support at [Thomson Reuters](https://www.thomsonreuters.com/en.html), and on the Logistics Fulfillment Team within [Target Corporation](https://corporate.target.com/), as well as holding Research Assistant positions while I was an undergraduate student at [Carleton University](https://carleton.ca/)  and at [Statistics Canada](https://www.statcan.gc.ca/en/start).
 
 In my free time I run tutoring services to help emerging software developers, in addition to volunteering seasonally with the Community Action Coalition of South Central Wisconsin.

@@ -32,7 +32,7 @@ Research Experience
 
 * 2022 – Present: Data Systems Laboratory (DASLab) SEAS - Harvard 
   * Master’s Thesis: AERO - A Darwinian Approach to Time/Energy-optimal Behavioral Robotics 
-    * Conducted research examining self-adaptive energy profiling to diagnose and reconcile inefficient robotic behaviors and postures
+    * Conducted research examining self-adaptive energy profiling to diagnose and reconcile inefficient robotic behaviors in Autonomous Air Vehicles (AAVs)
     * Consulted in weekly laboratory meetings providing feedback and accelerating research work
 
 Work experience
