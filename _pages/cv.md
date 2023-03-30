@@ -17,7 +17,7 @@ Education
 
 Skills
 ======
-* Imparative and Object-Oriented Languages
+* Imperative and Object-Oriented Languages
   * Thorough understanding of several imperative and object-oriented languages including C, C#, C++, Java and Python.
   * Comprehensive diagnosis, prognosis and debugging of software programs within tight timeframes, ensuring project completion on a timely basis
 * AI/Machine Learning (ML)
