@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of Liberal Arts, Extension Studies, Software Engineering, Harvard University, 2023 (expected)
-* Bachelor of Information Technology, Carleton University, 2016
+* Master of Liberal Arts, Extension Studies, Software Engineering, Harvard University, 2023 (expected) [Transcript](https://ZachSullivan.github.io/files/transcripts/Harvard-Official-Transcript.pdf)
+* Bachelor of Information Technology, Carleton University, 2016 [Transcript](https://ZachSullivan.github.io/files/transcripts/Carleton-Transcript.pdf)
 * Advanced IT Diplom, Algonquin College, 2016
 
 Skills
