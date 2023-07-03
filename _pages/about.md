@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am presently working on my Master’s thesis in Software Engineering and will be graduating in May.
+Presently, I am working within [Autonodyne's](https://www.autonodyne.ai/) Research and Development division, where I specialize in developing and refining autonomous vehicle behaviors specifically tailored for embedded platform devices utilized in UAS/UAV/Unmanned spaces.
 
-While at Harvard, I have been advised by Dr. Stratos Idreos who runs the Data Systems Laboratory [DASLab](http://daslab.seas.harvard.edu/) at Harvard’s School of Engineering and Applied Science [(SEAS)](https://seas.harvard.edu/). There I am working on architecting a novel self-adaptive control system for Autonomous Air Vehicles that automatically tunes the drone for best operational energy use.
+While at Harvard, I have been advised by Dr. Stratos Idreos who runs the Data Systems Laboratory [DASLab](http://daslab.seas.harvard.edu/) at Harvard’s School of Engineering and Applied Science [(SEAS)](https://seas.harvard.edu/). There I architected and published a novel self-adaptive control system for Autonomous Air Vehicles that automatically tunes the drone for best operational energy use.
 
 I am particularly interested in the application of Evolutionary Computation to the optimization of robotic behavior in order to reduce solution space complexity and optimize power efficiency. From this, I am continuing to explore topics in Design Morphology, Genetic Algorithms, and Control System Theory.
 
