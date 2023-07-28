@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Master of Liberal Arts, Extension Studies, Software Engineering, Harvard University, 2023 (expected) [Transcript](https://ZachSullivan.github.io/files/transcripts/Harvard-Official-Transcript.pdf)
+* Master of Liberal Arts, Extension Studies, Software Engineering, Harvard University, 2023 [Transcript](https://ZachSullivan.github.io/files/transcripts/Harvard-Official-Transcript.pdf)
 * Bachelor of Information Technology, Carleton University, 2016 [Transcript](https://ZachSullivan.github.io/files/transcripts/Carleton-Transcript.pdf)
 * Advanced IT Diploma, Algonquin College, 2016
 
@@ -29,13 +29,17 @@ inference models to real-world problems.
 Research Experience
 ======
 
-* 2022 – Present: Data Systems Laboratory (DASLab) SEAS - Harvard 
+* 2022 – 2023: Data Systems Laboratory (DASLab) SEAS - Harvard 
   * Master’s Thesis: AERO - A Darwinian Approach to Time/Energy-optimal Behavioral Robotics 
     * Conducted research examining self-adaptive energy profiling to diagnose and reconcile inefficient robotic behaviors in Autonomous Air Vehicles (AAVs)
     * Consulted in weekly laboratory meetings providing feedback and accelerating research work
 
 Work experience
 ======
+* 2023 - Presen: Autonodyne LLC
+  * Software Engineer
+    * Enhancing autonomous vehicle behaviors on embedded platform devices for UAS/UAV/Unmanned spaces
+
 * 2018 – 2019: Target Coporation
   * Logistics – Flexible Fulfillment 
     * Identified workflow optimization and implementation strategies, streamlining of the fulfillment process, optimized shipping flow, and improved overall customer satisfaction. Contributed to increasing total sales growth from 7.1% to 17.9%.
