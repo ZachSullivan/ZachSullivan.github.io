@@ -36,7 +36,7 @@ Research Experience
 
 Work experience
 ======
-* 2023 - Presen: Autonodyne LLC
+* 2023 - Present: Autonodyne LLC
   * Software Engineer
     * Enhancing autonomous vehicle behaviors on embedded platform devices for UAS/UAV/Unmanned spaces
 
