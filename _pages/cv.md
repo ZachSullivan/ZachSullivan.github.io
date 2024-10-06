@@ -45,8 +45,7 @@ Work experience
   * Software Engineer
     * Enhancing autonomous vehicle behaviors on embedded platform devices for UAS/UAV/Unmanned spaces
 
-* 2018 – 2019: Target Coporation
-  * Logistics – Flexible Fulfillment 
+* 2018 – 2019: Target Coporation 
     * Identified workflow optimization and implementation strategies, streamlining of the fulfillment process, optimized shipping flow, and improved overall customer satisfaction. Contributed to increasing total sales growth from 7.1% to 17.9%.
     * Trained and mentored team members on best practices for fulfillment and customer service, resulting in improved client satisfaction.
     * Worked closely with cross-functional teams to ensure logistic integration. Including inventory levels, shipping processes, and overseeing logistic audits.
