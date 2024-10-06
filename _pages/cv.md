@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of Liberal Arts, Extension Studies, Software Engineering, Harvard University, 2023 [Transcript](https://ZachSullivan.github.io/files/transcripts/Harvard-Official-Transcript.pdf)
-* Bachelor of Information Technology, Carleton University, 2016 [Transcript](https://ZachSullivan.github.io/files/transcripts/Carleton-Transcript.pdf)
+* Master of Liberal Arts, Extension Studies, Software Engineering, Harvard University, 2023
+* Bachelor of Information Technology, Carleton University, 2016
 * Advanced IT Diploma, Algonquin College, 2016
 
 Skills
@@ -37,6 +37,11 @@ Research Experience
 Work experience
 ======
 * 2023 - Present: Autonodyne LLC
+  * Senior Software Engineer
+    * Developed and implemented various machine learning models to drive fully autonomous vehicle behavior on communications denied embedded platforms.
+    * Led a team engineers in the development and continued growth of multiple simulation modeling projects, ensuring alignment with governmental and contract specific objectives.
+    * Mentored and guided software engineers, fostering innovation and collaboration.
+    * Coordinated and contracted with various government agencies to develop and enhance autonomous vehicle capabilities.
   * Software Engineer
     * Enhancing autonomous vehicle behaviors on embedded platform devices for UAS/UAV/Unmanned spaces
 
